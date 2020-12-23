@@ -5,7 +5,6 @@
 /public/images/*.jpeg
 /public/images/thumb/*.jpeg
 /storage/*.key
-/storage
 /vendor
 /.idea
 /.vscode
