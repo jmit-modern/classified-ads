@@ -47,16 +47,9 @@ If anyone would like to use this project in their own, they can do so as long as
 
 
 
-## On Github
-
-ibikri project is on github https://github.com/shababhsiddique/ibikri-shabab.git.
-
-If you wish to get the latest version of the project. install from github. The process of installation is follows-
-
-
 ## How to Install
 
-1) git clone https://github.com/shababhsiddique/ibikri-shabab.git (on remote machine)
+1) clone git repository
 
 2) open your project folder in cmd or powershell
 
