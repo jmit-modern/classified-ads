@@ -1,4 +1,4 @@
-# About iBikri
+# About classified-ads
 
 This is a simple Classified Ads application
 
@@ -110,14 +110,6 @@ For Database:
 
 If you would like to contribute to this project. Fork it and keep me posted with pull requests.
 
-## Security Vulnerabilities
-
-If you discover a security vulnerability within this ibikri application, please submit an [Issue](https://github.com/shababhsiddique/ibikri-shabab/issues).
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
 ## License
-
-iBikri platform is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
